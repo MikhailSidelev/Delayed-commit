@@ -1,3 +1,4 @@
+
 package class11;
 
 public class E14StringMethods {
@@ -16,9 +17,7 @@ public class E14StringMethods {
         System.out.println(str.replaceAll("&-; ",""));
 
 
-
-
-
     }
     }
+
 

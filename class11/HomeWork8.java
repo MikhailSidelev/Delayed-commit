@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork8 {
@@ -22,7 +23,6 @@ public class HomeWork8 {
         System.out.println("str2: " + str2);
     }
 }
-
 
 
 

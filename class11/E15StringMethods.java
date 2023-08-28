@@ -1,3 +1,4 @@
+
 package class11;
 
 public class E15StringMethods {
@@ -18,10 +19,7 @@ public class E15StringMethods {
         System.out.println(str.replaceAll("[ks2S] ",""));
 
 
-
-
-
-
     }
     }
+
 

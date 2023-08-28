@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork3 {
@@ -16,7 +17,6 @@ public class HomeWork3 {
         System.out.println("Number of numbers: " + numberCount);
     }
 }
-
 
 
 

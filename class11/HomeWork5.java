@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork5 {
@@ -23,7 +24,6 @@ public class HomeWork5 {
         System.out.println("Reversed string: " + reversed.toString());
     }
 }
-
 
 
 

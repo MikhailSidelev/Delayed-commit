@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork2 {
@@ -16,9 +17,6 @@ public class HomeWork2 {
         System.out.println("Number of alphabet characters: " + alphabetCount);
     }
 }
-
-
-
 
 
 

@@ -1,3 +1,4 @@
+
 package class11;
 
 public class E16StringMethods {
@@ -12,3 +13,4 @@ public class E16StringMethods {
         System.out.println(str.replaceAll("[A-Z}",""));
     }
 }
+

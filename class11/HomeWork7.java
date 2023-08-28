@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork7 {
@@ -33,8 +34,6 @@ public class HomeWork7 {
         return true; // All characters matched, so it's a palindrome
     }
 }
-
-
 
 
 

@@ -1,3 +1,4 @@
+
 package class11;
 
 public class E5StringMethods {
@@ -21,4 +22,5 @@ public class E5StringMethods {
             System.out.println("The letter 'a' appears " + count + " times.");
         }
     }
+
 

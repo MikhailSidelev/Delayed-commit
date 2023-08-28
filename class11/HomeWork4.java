@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork4 {
@@ -19,11 +20,6 @@ public class HomeWork4 {
     }
 
 }
-
-
-
-
-
 
 
 

@@ -1,4 +1,8 @@
+
 package class11;
+
+
+
 
 public class Task1 {
     public static void main(String[] args) {
@@ -12,4 +16,5 @@ public class Task1 {
         }
         System.out.println();  // Print a newline
     }
+
 }

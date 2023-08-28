@@ -1,3 +1,4 @@
+
 package class11;
 
 import java.util.Scanner;
@@ -34,5 +35,4 @@ public class HomeWork {
 
     }
 }
-
 

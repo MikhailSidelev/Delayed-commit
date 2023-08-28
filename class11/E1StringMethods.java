@@ -1,3 +1,4 @@
+
 package class11;
 
 public class E1StringMethods {
@@ -11,5 +12,8 @@ public class E1StringMethods {
         int lastIndex=str.length();
         System.out.println(lastIndex);
         System.out.println(str.charAt(17));
+        System.out.println(str.charAt(17));
     }
 }
+
+

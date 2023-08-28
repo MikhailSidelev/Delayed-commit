@@ -1,3 +1,4 @@
+
 package class11;
 
 public class HomeWork1 {
@@ -13,4 +14,5 @@ public class HomeWork1 {
 
         System.out.println(stringWithoutSpaces);
     }
+
 }
